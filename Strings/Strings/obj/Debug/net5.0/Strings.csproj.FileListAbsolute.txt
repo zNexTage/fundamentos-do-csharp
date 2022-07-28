@@ -1,0 +1,16 @@
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\bin\Debug\net5.0\Strings.exe
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\bin\Debug\net5.0\Strings.deps.json
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\bin\Debug\net5.0\Strings.dll
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\bin\Debug\net5.0\Strings.pdb
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\Strings.dll
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\refint\Strings.dll
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\Strings.pdb
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
+D:\Projetos\Balta\FundamentosCSharp\Strings\Strings\obj\Debug\net5.0\ref\Strings.dll

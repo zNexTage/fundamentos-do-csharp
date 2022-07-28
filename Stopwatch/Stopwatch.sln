@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{0DA8B013-3472-4C3A-A0C1-9AB46241857C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA8B013-3472-4C3A-A0C1-9AB46241857C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA8B013-3472-4C3A-A0C1-9AB46241857C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA8B013-3472-4C3A-A0C1-9AB46241857C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA8B013-3472-4C3A-A0C1-9AB46241857C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B91A8C-C793-455B-B077-45B424A57E82}
+	EndGlobalSection
+EndGlobal

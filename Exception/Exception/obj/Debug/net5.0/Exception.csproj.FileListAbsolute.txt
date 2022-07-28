@@ -1,0 +1,16 @@
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\bin\Debug\net5.0\Exception.exe
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\bin\Debug\net5.0\Exception.deps.json
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\bin\Debug\net5.0\Exception.runtimeconfig.json
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\bin\Debug\net5.0\Exception.runtimeconfig.dev.json
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\bin\Debug\net5.0\Exception.dll
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\bin\Debug\net5.0\Exception.pdb
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\Exception.csproj.AssemblyReference.cache
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\Exception.AssemblyInfoInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\Exception.AssemblyInfo.cs
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\Exception.csproj.CoreCompileInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\Exception.dll
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\refint\Exception.dll
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\Exception.pdb
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\Exception.genruntimeconfig.cache
+D:\Projetos\Balta\FundamentosCSharp\Exception\Exception\obj\Debug\net5.0\ref\Exception.dll

@@ -1,0 +1,15 @@
+D:\Projetos\Balta\FundamentosCSharp\Teste\bin\Debug\net6.0\Teste.exe
+D:\Projetos\Balta\FundamentosCSharp\Teste\bin\Debug\net6.0\Teste.deps.json
+D:\Projetos\Balta\FundamentosCSharp\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+D:\Projetos\Balta\FundamentosCSharp\Teste\bin\Debug\net6.0\Teste.dll
+D:\Projetos\Balta\FundamentosCSharp\Teste\bin\Debug\net6.0\ref\Teste.dll
+D:\Projetos\Balta\FundamentosCSharp\Teste\bin\Debug\net6.0\Teste.pdb
+D:\Projetos\Balta\FundamentosCSharp\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+D:\Projetos\Balta\FundamentosCSharp\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Balta\FundamentosCSharp\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+D:\Projetos\Balta\FundamentosCSharp\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\Teste\obj\Debug\net6.0\Teste.dll
+D:\Projetos\Balta\FundamentosCSharp\Teste\obj\Debug\net6.0\ref\Teste.dll
+D:\Projetos\Balta\FundamentosCSharp\Teste\obj\Debug\net6.0\Teste.pdb
+D:\Projetos\Balta\FundamentosCSharp\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache

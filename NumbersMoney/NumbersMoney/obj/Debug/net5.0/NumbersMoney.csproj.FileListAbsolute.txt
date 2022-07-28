@@ -1,0 +1,16 @@
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\bin\Debug\net5.0\NumbersMoney.exe
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\bin\Debug\net5.0\NumbersMoney.deps.json
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\bin\Debug\net5.0\NumbersMoney.runtimeconfig.json
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\bin\Debug\net5.0\NumbersMoney.runtimeconfig.dev.json
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\bin\Debug\net5.0\NumbersMoney.dll
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\bin\Debug\net5.0\NumbersMoney.pdb
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\NumbersMoney.csproj.AssemblyReference.cache
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\NumbersMoney.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\NumbersMoney.AssemblyInfoInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\NumbersMoney.AssemblyInfo.cs
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\NumbersMoney.csproj.CoreCompileInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\NumbersMoney.dll
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\refint\NumbersMoney.dll
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\NumbersMoney.pdb
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\NumbersMoney.genruntimeconfig.cache
+D:\Projetos\Balta\FundamentosCSharp\NumbersMoney\NumbersMoney\obj\Debug\net5.0\ref\NumbersMoney.dll

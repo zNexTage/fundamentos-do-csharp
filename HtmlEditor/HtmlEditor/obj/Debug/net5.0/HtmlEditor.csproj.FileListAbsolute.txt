@@ -1,0 +1,16 @@
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\bin\Debug\net5.0\HtmlEditor.exe
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\bin\Debug\net5.0\HtmlEditor.deps.json
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\bin\Debug\net5.0\HtmlEditor.runtimeconfig.json
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\bin\Debug\net5.0\HtmlEditor.runtimeconfig.dev.json
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\bin\Debug\net5.0\HtmlEditor.dll
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\bin\Debug\net5.0\HtmlEditor.pdb
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\HtmlEditor.csproj.AssemblyReference.cache
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\HtmlEditor.AssemblyInfoInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\HtmlEditor.AssemblyInfo.cs
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\HtmlEditor.csproj.CoreCompileInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\HtmlEditor.dll
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\refint\HtmlEditor.dll
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\HtmlEditor.pdb
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\HtmlEditor.genruntimeconfig.cache
+D:\Projetos\Balta\FundamentosCSharp\HtmlEditor\HtmlEditor\obj\Debug\net5.0\ref\HtmlEditor.dll

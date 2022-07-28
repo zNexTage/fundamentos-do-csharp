@@ -1,0 +1,16 @@
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\bin\Debug\net5.0\ErrorHandler.exe
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\bin\Debug\net5.0\ErrorHandler.deps.json
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\bin\Debug\net5.0\ErrorHandler.runtimeconfig.json
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\bin\Debug\net5.0\ErrorHandler.runtimeconfig.dev.json
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\bin\Debug\net5.0\ErrorHandler.dll
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\bin\Debug\net5.0\ErrorHandler.pdb
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\ErrorHandler.csproj.AssemblyReference.cache
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\ErrorHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\ErrorHandler.AssemblyInfoInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\ErrorHandler.AssemblyInfo.cs
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\ErrorHandler.csproj.CoreCompileInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\ErrorHandler.dll
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\refint\ErrorHandler.dll
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\ErrorHandler.pdb
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\ErrorHandler.genruntimeconfig.cache
+D:\Projetos\Balta\FundamentosCSharp\ErrorHandler\ErrorHandler\obj\Debug\net5.0\ref\ErrorHandler.dll

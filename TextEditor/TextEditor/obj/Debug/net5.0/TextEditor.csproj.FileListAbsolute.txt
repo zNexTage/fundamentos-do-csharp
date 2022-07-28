@@ -1,0 +1,16 @@
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.exe
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.dll
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.csproj.AssemblyReference.cache
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.dll
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\refint\TextEditor.dll
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
+D:\Projetos\Balta\FundamentosCSharp\TextEditor\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
